@@ -1,0 +1,1 @@
+github practice 텍스트 생성 명령어 echo
